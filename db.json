@@ -6,7 +6,7 @@
       "isAutomatic": "Manual",
       "tireType": "All-Season",
       "fuelUsage": "8 L/100km",
-      "dailyRent": "$45",
+      "dailyRent": "45",
       "image": "/CarModels/Toyota.png",
       "description": "The Toyota Corolla offers a reliable manual driving experience with efficient fuel usage at 8 L/100km. It's equipped with all-season tires, making it a versatile choice for daily use.",
       "categories": [
@@ -21,7 +21,7 @@
       "isAutomatic": "Automatic",
       "tireType": "All-Season",
       "fuelUsage": "7.5 L/100km",
-      "dailyRent": "$40",
+      "dailyRent": "40",
       "image": "/CarModels/Ferrari.png",
       "description": "Experience luxury with the Ferrari's automatic transmission. Despite its performance, it maintains fuel efficiency at 7.5 L/100km, paired with all-season tires for a smooth ride.",
       "categories": [
@@ -36,7 +36,7 @@
       "isAutomatic": "Manual",
       "tireType": "Performance",
       "fuelUsage": "12 L/100km",
-      "dailyRent": "$90",
+      "dailyRent": "90",
       "image": "/CarModels/Fiat.png",
       "description": "The Fiat combines a manual transmission with performance tires for a sporty feel. It has a higher fuel usage at 12 L/100km, ideal for those who enjoy a spirited drive.",
       "categories": [
@@ -51,7 +51,7 @@
       "isAutomatic": "Manual",
       "tireType": "All-Terrain",
       "fuelUsage": "14 L/100km",
-      "dailyRent": "$100",
+      "dailyRent": "100",
       "image": "/CarModels/Chevrolet Tahoe.png",
       "description": "The Chevrolet Tahoe is designed for rugged terrains with its all-terrain tires and manual transmission. It consumes 14 L/100km, perfect for off-road adventures.",
       "categories": [
@@ -66,7 +66,7 @@
       "isAutomatic": "Automatic",
       "tireType": "All-Season",
       "fuelUsage": "6.5 L/100km",
-      "dailyRent": "$50",
+      "dailyRent": "50",
       "image": "/CarModels/Volkswagen.png",
       "description": "The Volkswagen Golf is an efficient choice with its automatic transmission and low fuel usage of 6.5 L/100km. Its all-season tires ensure comfort and stability throughout the year.",
       "categories": [
@@ -81,7 +81,7 @@
       "isAutomatic": "Manual",
       "tireType": "Performance",
       "fuelUsage": "9 L/100km",
-      "dailyRent": "$85",
+      "dailyRent": "85",
       "image": "/CarModels/BMW.png",
       "description": "The BMW 3 Series offers a thrilling drive with its manual transmission and performance tires. It has a moderate fuel consumption of 9 L/100km, combining style with efficiency.",
       "categories": [
@@ -96,7 +96,7 @@
       "isAutomatic": "Manual",
       "tireType": "Performance",
       "fuelUsage": "9.5 L/100km",
-      "dailyRent": "$95",
+      "dailyRent": "95",
       "image": "/CarModels/Mercedes.png",
       "description": "The Mercedes-Benz C-Class delivers luxury and performance with a manual transmission and performance tires. It has a fuel usage of 9.5 L/100km, ideal for those who appreciate refined driving.",
       "categories": [
@@ -111,7 +111,7 @@
       "isAutomatic": "Automatic",
       "tireType": "All-Season",
       "fuelUsage": "7 L/100km",
-      "dailyRent": "$35",
+      "dailyRent": "35",
       "image": "/CarModels/Hyundai Elantra.png",
       "description": "The Hyundai Elantra is an affordable and efficient option with automatic transmission and a fuel usage of 7 L/100km. Its all-season tires provide a reliable and smooth driving experience.",
       "categories": [
@@ -126,7 +126,7 @@
       "isAutomatic": "Manual",
       "tireType": "All-Season",
       "fuelUsage": "Electric",
-      "dailyRent": "$120",
+      "dailyRent": "120",
       "image": "/CarModels/Tesla Model 3.png",
       "description": "The Tesla Model 3 offers a cutting-edge electric driving experience with a manual transmission. It comes with all-season tires, providing a futuristic and eco-friendly ride.",
       "categories": [
@@ -141,7 +141,7 @@
       "isAutomatic": "Manual",
       "tireType": "All-Season",
       "fuelUsage": "8 L/100km",
-      "dailyRent": "$55",
+      "dailyRent": "55",
       "image": "/CarModels/Nissan Altima.png",
       "description": "The Nissan Altima is a balanced choice with its manual transmission and efficient fuel usage of 8 L/100km. Its all-season tires make it versatile for various driving conditions.",
       "categories": [
