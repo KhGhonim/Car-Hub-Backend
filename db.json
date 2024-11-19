@@ -274,8 +274,8 @@
         "Navigation": true,
         "Heated Seats": false,
         "Backup Camera": true,
-        "CarFrontSensors": true,
-        "CarBackSensors": false
+        "Front Sensors": true,
+        "BackS ensors": false
       },
       "braking": "Average",
       "handling": "Average"
