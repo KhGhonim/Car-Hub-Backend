@@ -34,7 +34,7 @@
       "isAutomatic": "Automatic",
       "tireType": "All-Season",
       "fuelUsage": "7.5 L/100km",
-      "dailyRent": "400", //Increased daily rent to reflect luxury car
+      "dailyRent": "400", 
       "image": "/CarModels/Ferrari.png",
       "description": "Experience luxury with the Ferrari's automatic transmission. Despite its performance, it maintains fuel efficiency at 7.5 L/100km, paired with all-season tires for a smooth ride.",
       "categories": [
@@ -227,7 +227,7 @@
     {
       "id": "9",
       "name": "Tesla Model 3",
-      "isAutomatic": "Automatic", //Corrected to Automatic - Teslas are automatic
+      "isAutomatic": "Automatic", 
       "tireType": "All-Season",
       "fuelUsage": "Electric",
       "dailyRent": "120",
@@ -238,8 +238,8 @@
         {"type": "Luxury", "priceRange": "$150-$300"},
         {"type": "Sedan", "priceRange": "$100-$150"}
       ],
-      "acceleration": "4.2 sec 0-60 mph", //More realistic for a Tesla Model 3
-      "range": "350 miles", //More realistic range for Tesla Model 3
+      "acceleration": "4.2 sec 0-60 mph", 
+      "range": "350 miles", 
       "safety": 5,
       "features": {
         "Bluetooth": true,
@@ -255,7 +255,7 @@
     {
       "id": "10",
       "name": "Nissan Altima",
-      "isAutomatic": "Automatic", //More common for this model
+      "isAutomatic": "Automatic", 
       "tireType": "All-Season",
       "fuelUsage": "8 L/100km",
       "dailyRent": "55",
